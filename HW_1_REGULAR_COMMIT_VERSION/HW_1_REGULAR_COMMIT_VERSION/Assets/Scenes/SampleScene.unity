@@ -949,7 +949,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 781ce0ac8f5bbe3459b71fdacc85a951, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rb: {fileID: 912269664}
+  rb: {fileID: 0}
   force_Horizontal: 0
   force_Vertical: 0
   force_Lateral: 0
